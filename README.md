@@ -1,2 +1,2 @@
 # ITMD
-ITMD repo
+This is my Spring 2024 ITMD Repository
